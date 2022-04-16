@@ -6,7 +6,7 @@
 
 ## Pre-requisites
 - make sure to have knowledge about how jwt authentication works
-- make sure you have watched/followed my guide on passport-jwt [passport-jwt-authentication-guide](https://github.com/JatinVashisht1/passport-jwt-authentication-guide)
+- make sure you have watched/followed my [guide on passport-jwt](https://github.com/JatinVashisht1/passport-jwt-authentication-guide)
 
 ## Files to be changed:
 - `/config/passport.js`
