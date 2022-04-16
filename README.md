@@ -13,7 +13,7 @@
     - The `ExtractJwt.fromAuthHeaderAsBearerToken()` function is provided by passport to us so we have to write its custom implementation.
 - 
 
-## Lets refactor the code
+## Let's refactor the code
 ### Removing passport middleware from our routes
 - goto `/routes/users.js` and in the `protected` route delete the  passport.authenticate middleware implementation
 - goto `/lib/utils.js` file and add new function `authMiddleware` with the followint signature
